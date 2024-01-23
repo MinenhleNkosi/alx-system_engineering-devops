@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-sudo -u "$1" bash << EOF
-whoami
-EOF
+# runs the whoami command under the user passed as an argument
+
+# Use 'sudo' to switch to the specified user and then run 'whoami'
+sudo -u "$1" whoami
