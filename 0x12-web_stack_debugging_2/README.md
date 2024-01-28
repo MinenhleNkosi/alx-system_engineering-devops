@@ -6,7 +6,9 @@ For this project, we expect you to look at this concept:
 * [Web stack debugging](https://intranet.alxswe.com/concepts/68)
 
 ------
-![pic](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/287/99littlebugsinthecode-holberton.jpg)
+<kbd>
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/287/99littlebugsinthecode-holberton.jpg" height="auto" width="600" />
+</kbd>
 
 ## Requirements
 ### General
