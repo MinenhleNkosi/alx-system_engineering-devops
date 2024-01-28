@@ -9,7 +9,9 @@ For this project, we expect you to look at these concepts:
 
 ----
 
-![pic](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/265/uWLzjc8.jpg)
+<kbd>
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/265/uWLzjc8.jpg" height="auto" width="600" />
+</kbd>
 
 ## Background Context
 The Webstack debugging series will train you in the art of debugging. Computers and software rarely work the way we want (that’s the “fun” part of the job!).
