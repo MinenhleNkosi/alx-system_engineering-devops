@@ -8,7 +8,9 @@ For this project, we expect you to look at these concepts:
 * [[How to] Install mysql 5.7](https://intranet.alxswe.com/concepts/100002)
 
 ------
-![pic](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/280/KkrkDHT.png)
+<kbd>
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/280/KkrkDHT.png" height="auto" width="800" />
+</kbd>
 
 ## Resources
 **Read or watch**:
