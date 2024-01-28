@@ -2,7 +2,7 @@
 
 -----
 <kbd>
-<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/285/s7kpNYq.png" height="auto" width="600" />
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/285/s7kpNYq.png" height="auto" width="900" />
 </kbd>
 
 ## Resources
