@@ -539,10 +539,6 @@ sylvain@ubuntu$
 --------------
 ## 12. Tell the story of passwd
 
-<kbd>
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/03ca27392c6338e696fc0c3b08765f02c98457a1.jpg" height="auto" width="600;"/>
-</kbd>
-
 Read:
 * [IFS (internal field separator)](https://tldp.org/LDP/abs/html/internalvariables.html)
 * [Understanding /etc/passwd](https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/)
@@ -592,7 +588,9 @@ sylvain@ubuntu$
 --------------
 ## 13. Let's parse Apache logs
 
-![pic](https://intranet.alxswe.com/images/contents/sysadmin/projects/80/such_awk.jpg)
+<kbd>
+<img src="https://intranet.alxswe.com/images/contents/sysadmin/projects/80/such_awk.jpg" height="auto" width="600;"/>
+</kbd>
 
 [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server) is among the most popular web servers in the world, serving 50% of all active websites, no doubt that you will have to interact with it within your career.
 
