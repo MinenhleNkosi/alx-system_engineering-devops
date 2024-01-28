@@ -1,7 +1,9 @@
 # Networking basics #1
 
 -----
-![pic](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/285/s7kpNYq.png)
+<kbd>
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/285/s7kpNYq.png" height="auto" width="600" />
+</kbd>
 
 ## Resources
 **Read or watch:**
