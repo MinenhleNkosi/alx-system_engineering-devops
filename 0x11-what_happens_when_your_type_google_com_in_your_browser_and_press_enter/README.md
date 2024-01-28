@@ -8,7 +8,9 @@ A way to easily assess this is to simply ask an engineer to explain how a softwa
 
 Let’s practice by exploring the infrastructure side (network, servers, security…) of the question.
 
-![pic](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/298/aJPw3mw.jpg)
+<kbd>
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/298/aJPw3mw.jpg" height="auto" width="800" />
+</kbd>
 
 ## Requirements
 ### General
