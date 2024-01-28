@@ -14,7 +14,9 @@ For this project, we expect you to look at this concept:
 ## Background Context
 **Your servers without a firewall…**
 
-![pic](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/155/holbertonschool-firewall.gif)
+<kbd>
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/155/holbertonschool-firewall.gif" height="auto" width="800" />
+</kbd>
 
 ### Resources
 **Read or watch**:
