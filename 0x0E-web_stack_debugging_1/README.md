@@ -6,7 +6,9 @@ For this project, we expect you to look at these concepts:
 * [Network basics](https://intranet.alxswe.com/concepts/33)
 * [Web stack debugging](https://intranet.alxswe.com/concepts/68)
 
-![pic](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/271/B4eeypV.jpg)
+<kbd>
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/271/B4eeypV.jpg" height="auto" width="800" />
+</kbd>
 
 -----
 ## Requirements
