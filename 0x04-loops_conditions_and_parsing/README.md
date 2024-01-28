@@ -61,7 +61,9 @@ Examples:
 
 Not passing `Shellcheck`:
 
-![pic](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/Vxotqyj.png)
+<kbd>
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/Vxotqyj.png" height="auto" width="600;"/>
+</kbd>
 
 Passing `Shellcheck`:
 
