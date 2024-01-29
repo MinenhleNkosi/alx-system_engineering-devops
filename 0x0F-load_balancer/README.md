@@ -8,7 +8,9 @@ For this project, we expect you to look at these concepts:
 
 -----
 
-![pic](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/275/qfdked8.png)
+<kbd>
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/275/qfdked8.png" height="auto" width="800" />
+</kbd>
 
 ## Background Context
 You have been given 2 additional servers:

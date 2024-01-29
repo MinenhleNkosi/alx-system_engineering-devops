@@ -1,6 +1,8 @@
 # 0x03. Shell, init files, variables and expansions
 
-![pic](https://alx-intranet.hbtn.io/images/challenge2022/get-started.jpg)
+<kbd>
+<img src="https://alx-intranet.hbtn.io/images/challenge2022/get-started.jpg" />
+</kbd>
 
 
 ## Resources

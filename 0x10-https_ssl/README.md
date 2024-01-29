@@ -8,12 +8,16 @@ For this project, we expect you to look at these concepts:
 
 -----
 
-![pic](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/276/FlhGPEK.png)
+<kbd>
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/276/FlhGPEK.png" height="auto" width="800" />
+</kbd>
 
 ## Background Context
 ### What happens when you don’t secure your website traffic?
 
-![pic](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/276/xCmOCgw.gif)
+<kbd>
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/276/xCmOCgw.gif" height="auto" width="500" />
+</kbd>
 
 ## Resources
 **Read or watch:**

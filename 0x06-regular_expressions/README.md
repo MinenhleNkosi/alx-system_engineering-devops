@@ -46,8 +46,6 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 -----
 ## 0. Simply matching School
 
-![pic](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/ec65557f0da1fbfbff6659413885e4d4822f5b1d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230503T191914Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a6681714e880aee009d282691122bdbf29eb7ee6d6732a83f62db3e9cee6eb4b)
-
 Requirements:
 * The regular expression must match `School`
 * Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
@@ -66,16 +64,12 @@ $
 -----
 ## 1. Repetition Token #0
 
-![pic](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/e7db3c377d46453588fc84f3a975661d142fee91.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230503T191914Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7341cd2470f0d511cd0a0fb83e031958c15a1b0fcbdc43fc07e0d943f68bcc7f)
-
 Requirements:
 * Find the regular expression that will match the above cases
 * Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
 
 -----
 ## 2. Repetition Token #1
-
-![pic](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/c59ff11db195d5cf17d1790a5141ae2f234786d2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230503T191914Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3f4f479b0821b5b6be1800662a5fbfdec53f3be15925cf89b716cd75aa220b9c)
 
 Requirements:
 * Find the regular expression that will match the above cases
@@ -84,16 +78,12 @@ Requirements:
 -----
 ## 3. Repetition Token #2
 
-![pic](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/3b6bf4aeca6a0c2de584e7f5d68d11eef57ce205.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230503T191914Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d3d00645b4a812a09150a640f1c3fc532bf37ee5fc9bb2d97136f8e05c973729)
-
 Requirements:
 * Find the regular expression that will match the above cases
 * Using the project instructions, create a Ruby script that accepts one argument and pass it to a regular expression matching method
 
 -----
 ## 4. Repetition Token #3
-
-![pic](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/f8dbcb9cf5ae569a8645027dc46e81cb372ce28e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230503T191914Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fe782b2a5c60d29c40a1d0ef3674c3530fd5399e4980f81d79d4982e47df2bfb)
 
 Requirements:
 * Find the regular expression that will match the above cases
@@ -143,7 +133,9 @@ sylvain@ubuntu$
 -----
 ## 7. OMG WHY ARE YOU SHOUTING?
 
-![pic](https://intranet.alxswe.com/images/contents/sysadmin/projects/78/shouting.jpg)
+<kbd>
+<img src="https://intranet.alxswe.com/images/contents/sysadmin/projects/78/shouting.jpg" height="auto" width="600"/>
+</kbd>
 
 Requirement:
 * The regular expression must be only matching: capital letters

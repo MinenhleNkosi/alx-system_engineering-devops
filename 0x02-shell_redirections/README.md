@@ -1,6 +1,8 @@
 # 0x02. Shell, I/O Redirections and filters
 
-![pic](https://alx-intranet.hbtn.io/images/challenge2022/get-started.jpg)
+<kbd>
+<img src="https://alx-intranet.hbtn.io/images/challenge2022/get-started.jpg" />
+</kbd>
 
 ## Resources
 

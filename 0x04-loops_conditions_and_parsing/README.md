@@ -61,11 +61,15 @@ Examples:
 
 Not passing `Shellcheck`:
 
-![pic](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/Vxotqyj.png)
+<kbd>
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/Vxotqyj.png" height="auto" width="600;"/>
+</kbd>
 
 Passing `Shellcheck`:
 
-![pic](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/ubHWxDU.png)
+<kbd>
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/251/ubHWxDU.png" height="auto" width="600;"/>
+</kbd>
 
 For every feedback, Shellcheck will provide a code that you can use to get more information about the issue, for example for code SC2034, you can browse [https://github.com/koalaman/shellcheck/wiki/SC2034](https://github.com/koalaman/shellcheck/wiki/SC2034).
 -----------
@@ -535,8 +539,6 @@ sylvain@ubuntu$
 --------------
 ## 12. Tell the story of passwd
 
-![pic](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/03ca27392c6338e696fc0c3b08765f02c98457a1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230426%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230426T185037Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c917dadcd8d93f700bc56a8523fdc412b19057de096923e0fffb3cd3ee168a7e)
-
 Read:
 * [IFS (internal field separator)](https://tldp.org/LDP/abs/html/internalvariables.html)
 * [Understanding /etc/passwd](https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/)
@@ -586,7 +588,9 @@ sylvain@ubuntu$
 --------------
 ## 13. Let's parse Apache logs
 
-![pic](https://intranet.alxswe.com/images/contents/sysadmin/projects/80/such_awk.jpg)
+<kbd>
+<img src="https://intranet.alxswe.com/images/contents/sysadmin/projects/80/such_awk.jpg" height="auto" width="600;"/>
+</kbd>
 
 [Apache](https://en.wikipedia.org/wiki/Apache_HTTP_Server) is among the most popular web servers in the world, serving 50% of all active websites, no doubt that you will have to interact with it within your career.
 

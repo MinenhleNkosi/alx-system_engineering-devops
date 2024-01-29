@@ -7,12 +7,16 @@ For this project, we expect you to look at this concept:
 
 -----
 
-![pic](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/284/V1HjQ1Y.png)
+<kbd>
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/284/V1HjQ1Y.png" height="auto" width="800" />
+</kbd>
 
 ## Background Context
 **Your servers without a firewall…**
 
-![pic](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/155/holbertonschool-firewall.gif)
+<kbd>
+<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/155/holbertonschool-firewall.gif" height="auto" width="800" />
+</kbd>
 
 ### Resources
 **Read or watch**:

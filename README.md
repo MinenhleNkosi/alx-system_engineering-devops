@@ -1,6 +1,8 @@
 # About Bash projects 
 
-![RTFM](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/205/image.jpg)
+<kbd>
+<a href="url"><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/205/image.jpg" alt="your-image-description" height="auto" width="800" style="border-radius: 50%"></a>
+</kbd>
 
 # Resources
 ## Read or watch:
